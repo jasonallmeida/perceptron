@@ -1,1 +1,1 @@
-Perceptron com 7 entradas que verifica se a matrícula informada é maior ou igual à minha (5245139) e retorna '1'; caso contrário, retorna '-1'.
+Perceptron com 7 entradas que verifica se a matrícula informada é maior ou igual à minha (5245139) e retorna '1'; caso contrário, retorna '-1'. Este é um trabalho da disciplina Inteligência Artificial Aplicada proposto pela minha faculdade.
